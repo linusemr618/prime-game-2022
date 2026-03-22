@@ -1,2 +1,2 @@
-# prime-game
-Mein Bot (MarkForsterPro) für den PrimeGame-Wettbewerb
+# prime-game-2022
+Mein Bot (MarkForsterPro) für den PrimeGame-Wettbewerb 2022
